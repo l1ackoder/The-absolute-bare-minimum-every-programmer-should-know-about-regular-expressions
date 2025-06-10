@@ -145,3 +145,4 @@ In `http://immike.net/blog/Some-blog-post`, the captured part would be: `immike.
 ---
 
 
+Archive link: https://web.archive.org/web/20090209182018/http://immike.net/blog/2007/04/06/the-absolute-bare-minimum-every-programmer-should-know-about-regular-expressions/
